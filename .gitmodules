@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rapiclient"]
 	path = rapiclient
 	url = https://github.com/bergant/rapiclient
-	shallow = true
-	registered = true
